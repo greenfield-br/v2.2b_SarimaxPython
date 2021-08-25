@@ -1,0 +1,43 @@
+wheat
+CHRIS/MGEX_MW6
+10y tn
+CHRIS/CME_TN1
+copper
+CHRIS/CME_HG15
+rice osaka
+CHRIS/ODE_OR2
+rice tokyo
+CHRIS/ODE_TR1
+brent
+CHRIS/ICE_B31
+gasoline
+CHRIS/CME_RB13
+gasoline
+CHRIS/CME_RB12
+hang seng
+CHRIS/HKEX_HSI4
+cable
+CHRIS/CME_M6B2
+10y swap
+CHRIS/CME_N1U2
+euro
+CHRIS/CME_M6E2
+soybean meal
+CHRIS/CME_SM10
+soybean oil
+CHRIS/CME_BO10
+gold
+CHRIS/CME_GC10
+soybean future
+CHRIS/CME_S9
+corn
+CHRIS/CME_C8
+corn
+CHRIS/CME_C7
+sugar
+CHRIS/ICE_SB6
+gas oil
+CHRIS/ICE_G13
+canola
+CHRIS/ICE_RS4
+

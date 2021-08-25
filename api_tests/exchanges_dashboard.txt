@@ -1,0 +1,4 @@
+exchange, last trade, ult 24h vol, reclame aqui
+bitcointrade, 16100, 59.82, 6.32
+mercado bitcoin, 16198, 79.20, 5.02
+
