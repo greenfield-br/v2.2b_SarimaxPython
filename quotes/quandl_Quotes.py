@@ -1,6 +1,6 @@
 import pandas
 import quandl
-quandl.ApiConfig.api_key = "8jRUz3xWAcL1eM3-d9TN"
+quandl.ApiConfig.api_key = ""
 import warnings
 from datetime import datetime
 from func_base import list_Code
