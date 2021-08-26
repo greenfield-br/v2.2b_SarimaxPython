@@ -1,5 +1,5 @@
 #import bitmex
-#client = bitmex.bitmex(api_key='jCk7Hxn-UwDnH811_J1g59FU', api_secret='p6O7MhhVHlMFIGWkYZ-0EpmL-8ulW7flcKIw_RAYQZfrSUP8')
+#client = bitmex.bitmex(api_key='', api_secret='')
 #client.Quote.Quote_get(symbol='XBTUSD').result()
 
 # bitmex sends eod candle of day X as day X+1
